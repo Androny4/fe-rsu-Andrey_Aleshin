@@ -1,0 +1,21 @@
+table, tr, th, td {
+	text-align: left;
+	border-collapse: collapse;
+	border: 2px solid white;
+}
+thead, tfoot {
+	background-color: #75FF9C;
+}
+table {
+	  width: 100%;
+}
+.width {
+	width: 75%;
+	height: 14px
+}
+iframe {
+	width: 100%;
+}
+.height{
+	height: 50px
+}

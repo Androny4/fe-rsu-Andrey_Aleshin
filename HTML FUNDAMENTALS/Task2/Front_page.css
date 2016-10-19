@@ -1,0 +1,25 @@
+table {
+	width: 100%;
+	text-align: center;
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+thead, tfoot{
+	background: lightgreen;
+}
+.width{
+	width: 75%;
+}
+.height{
+	height: 50px;
+}
+iframe{
+	width: 100%;
+	height: 100%
+}
+html, body{
+ height:100%;
+ margin: 0;
+ padding: 0;}
+ 
